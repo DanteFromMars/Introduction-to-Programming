@@ -1,0 +1,5 @@
+D:\c# projects\04.HelloWorld\05.PrintYourName\bin\Debug\05.PrintYourName.exe.config
+D:\c# projects\04.HelloWorld\05.PrintYourName\bin\Debug\05.PrintYourName.exe
+D:\c# projects\04.HelloWorld\05.PrintYourName\bin\Debug\05.PrintYourName.pdb
+D:\c# projects\04.HelloWorld\05.PrintYourName\obj\Debug\05.PrintYourName.exe
+D:\c# projects\04.HelloWorld\05.PrintYourName\obj\Debug\05.PrintYourName.pdb
